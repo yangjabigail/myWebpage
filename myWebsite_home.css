@@ -1,0 +1,46 @@
+body {
+	font-family: 'Optima', serif; 
+	background-color: rgb(5, 5, 60);
+	color: rgba(255,255,255,0.8);
+	margin-left: 1rem;
+	padding: 1.5rem;
+	line-height: 1.75rem;
+}
+
+h1 {
+	font-family: 'Didot', serif;
+	letter-spacing: 5px;
+}
+
+button {
+	padding: 10px;
+	background-color: rgba(250, 250, 250, 0.1);
+	border: none;
+	font-family: 'Didot', serif;
+	color: rgb(255, 255, 255);
+	font-size: 13px;
+}
+
+img {
+/*	align-items: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	vertical-align: middle;*/
+	box-shadow: 0 0 15px rgb(5, 5, 60);
+}
+
+.title {
+	margin-top:10px;
+	text-shadow: 0 0 3px #FFFFFF, 0 0 3px #AAAAFA;
+
+}
+
+.intro {
+	width: 30rem;
+}
+
+.nav {
+	float: top;
+	/*background-color: rgba(250, 250, 250, 0.1);*/
+	/*padding-right: 15px;*/
+}
