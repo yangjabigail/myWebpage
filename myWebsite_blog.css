@@ -21,8 +21,6 @@ button {
 	font-size: 13px;
 }
 
-button:hover, button:focus { transform: scale(1.3); color:gold }
-
 img {
 /*	align-items: center;
 	margin-left: 5px;
@@ -45,27 +43,4 @@ img {
 	float: top;
 	/*background-color: rgba(250, 250, 250, 0.1);*/
 	/*padding-right: 15px;*/
-}
-
-.nav {
-	padding: 10px;
-/*	background-color: rgba(250, 250, 250, 0.1);
-	border: none;
-	font-family: 'Didot', serif;
-	color: rgb(255, 255, 255);
-	font-size: 13px;
-	text-decoration: none;*/
-}
-
-ul#menu li { 
-	display:inline;
-	padding: 10px;
-	background-color: rgba(250, 250, 250, 0.1);
-	border: none;
-	font-family: 'Didot', serif;
-}
-
-ul#menu a {
-	text-decoration: none;
-	color: rgb(255,255,255);
 }
